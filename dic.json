@@ -1,0 +1,406 @@
+{
+    "Queen Bee": {
+        "maps": [
+            "mjolnir_04",
+            "gld_dun02"
+        ],
+        "spawn_times": [
+            120,
+            480
+        ]
+    },
+    "Amon Ra": {
+        "maps": [
+            "moc_pryd06",
+            "moc_pryd06"
+        ],
+        "spawn_times": [
+            60,
+            60
+        ]
+    },
+    "Atroce": {
+        "maps": [
+            "ra_fild03",
+            "ra_fild04",
+            "ve_fild01",
+            "ve_fild02",
+            "gld_dun03"
+        ],
+        "spawn_times": [
+            180,
+            300,
+            180,
+            360,
+            480
+        ]
+    },
+    "Baphomet": {
+        "maps": [
+            "prt_maze03",
+            "gld_dun03"
+        ],
+        "spawn_times": [
+            120,
+            480
+        ]
+    },
+    "Beelzebub": {
+        "maps": [
+            "abbey03"
+        ],
+        "spawn_times": [
+            720
+        ]
+    },
+    "Golden Thief Bug": {
+        "maps": [
+            "prt_sewb4"
+        ],
+        "spawn_times": [
+            60
+        ]
+    },
+    "Fallen Bishop": {
+        "maps": [
+            "abbey02"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Boitata": {
+        "maps": [
+            "bra_dun02"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Storm Knight": {
+        "maps": [
+            "xmas_dun02"
+        ],
+        "spawn_times": [
+            60
+        ]
+    },
+    "Detardeurus": {
+        "maps": [
+            "abyss_03"
+        ],
+        "spawn_times": [
+            180
+        ]
+    },
+    "Doppelganger": {
+        "maps": [
+            "gef_dun02",
+            "gld_dun02",
+            "gld_dun04"
+        ],
+        "spawn_times": [
+            120,
+            480,
+            480
+        ]
+    },
+    "Dracula": {
+        "maps": [
+            "gef_dun01"
+        ],
+        "spawn_times": [
+            60
+        ]
+    },
+    "Drake": {
+        "maps": [
+            "treasure02"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Eddga": {
+        "maps": [
+            "pay_fild10",
+            "gld_dun01",
+            "gld_dun01"
+        ],
+        "spawn_times": [
+            120,
+            480,
+            480
+        ]
+    },
+    "Egnigem Cenia": {
+        "maps": [
+            "lhz_dun02"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Pharaoh": {
+        "maps": [
+            "in_sphinx5"
+        ],
+        "spawn_times": [
+            60
+        ]
+    },
+    "Moonlight Flower": {
+        "maps": [
+            "pay_dun04",
+            "gld_dun01"
+        ],
+        "spawn_times": [
+            60,
+            480
+        ]
+    },
+    "Phreeoni": {
+        "maps": [
+            "moc_fild17"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "General Daehyun": {
+        "maps": [
+            "gld2_pay"
+        ],
+        "spawn_times": [
+            480
+        ]
+    },
+    "Turtle General": {
+        "maps": [
+            "tur_dun04"
+        ],
+        "spawn_times": [
+            60
+        ]
+    },
+    "Gioia": {
+        "maps": [
+            "gld2_ald"
+        ],
+        "spawn_times": [
+            480
+        ]
+    },
+    "Gorynych": {
+        "maps": [
+            "mosk_dun03"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Dead Guardian Kades": {
+        "maps": [
+            "gld2_gef"
+        ],
+        "spawn_times": [
+            480
+        ]
+    },
+    "Hatii": {
+        "maps": [
+            "xmas_fild01"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Ifrit": {
+        "maps": [
+            "thor_v03"
+        ],
+        "spawn_times": [
+            660
+        ]
+    },
+    "Kiel D-01": {
+        "maps": [
+            "kh_dun02"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Kraken": {
+        "maps": [
+            "iz_dun05"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "White Lady": {
+        "maps": [
+            "lou_dun03"
+        ],
+        "spawn_times": [
+            116
+        ]
+    },
+    "Lady Tanee": {
+        "maps": [
+            "ayo_dun02"
+        ],
+        "spawn_times": [
+            420
+        ]
+    },
+    "Leak": {
+        "maps": [
+            "dew_dun01"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Maya": {
+        "maps": [
+            "anthell02",
+            "gld_dun03",
+            "gld_dun02"
+        ],
+        "spawn_times": [
+            120,
+            480,
+            480
+        ]
+    },
+    "Wounded Morroc": {
+        "maps": [
+            "moc_fild22"
+        ],
+        "spawn_times": [
+            720
+        ]
+    },
+    "Orc Hero": {
+        "maps": [
+            "gef_fild14",
+            "gef_fild02"
+        ],
+        "spawn_times": [
+            60,
+            1440
+        ]
+    },
+    "Osiris": {
+        "maps": [
+            "moc_pryd04"
+        ],
+        "spawn_times": [
+            60
+        ]
+    },
+    "Night of Sorrow": {
+        "maps": [
+            "ra_san05"
+        ],
+        "spawn_times": [
+            300
+        ]
+    },
+    "Angry Pyuriel": {
+        "maps": [
+            "gld2_prt"
+        ],
+        "spawn_times": [
+            480
+        ]
+    },
+    "Scaraba Queen": {
+        "maps": [
+            "dic_dun02",
+            "dic_dun02"
+        ],
+        "spawn_times": [
+            120,
+            120
+        ]
+    },
+    "RSX-0806": {
+        "maps": [
+            "ein_dun02"
+        ],
+        "spawn_times": [
+            125
+        ]
+    },
+    "Incantation Samurai": {
+        "maps": [
+            "ama_dun03"
+        ],
+        "spawn_times": [
+            91
+        ]
+    },
+    "Dark Lord": {
+        "maps": [
+            "gl_chyard",
+            "gld_dun04",
+            "gld_dun04"
+        ],
+        "spawn_times": [
+            60,
+            480,
+            480
+        ]
+    },
+    "Lord of Death": {
+        "maps": [
+            "niflheim"
+        ],
+        "spawn_times": [
+            133
+        ]
+    },
+    "Orc Lord": {
+        "maps": [
+            "gef_fild10"
+        ],
+        "spawn_times": [
+            120
+        ]
+    },
+    "Evil Snake Lord": {
+        "maps": [
+            "gon_dun03"
+        ],
+        "spawn_times": [
+            94
+        ]
+    },
+    "Tao Gunka": {
+        "maps": [
+            "beach_dun"
+        ],
+        "spawn_times": [
+            300
+        ]
+    },
+    "Valkyrie Randgris": {
+        "maps": [
+            "odin_tem03"
+        ],
+        "spawn_times": [
+            480
+        ]
+    },
+    "Vesper": {
+        "maps": [
+            "jupe_core"
+        ],
+        "spawn_times": [
+            120
+        ]
+    }
+}
